@@ -1,0 +1,9 @@
+data/
+venv/
+*.zip
+*.yaml
+*.pt
+classification_raw_data/
+data_cls/
+data_cls1/
+runs/
